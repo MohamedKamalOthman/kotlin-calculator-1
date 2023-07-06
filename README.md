@@ -29,9 +29,12 @@ git clone https://github.com/MohamedKamalOthman/kotlin-calculator-1.git
 # Demo Video
 
 
-https://github.com/MohamedKamalOthman/kotlin-calculator-1/assets/76039756/a4c74f45-1c62-4116-bb70-01968a50ac7c
+
+https://github.com/MohamedKamalOthman/kotlin-calculator-1/assets/76039756/78f66ea4-57d0-4920-94bf-41a37efe7ae8
+
 
 
 # Screenshots
-![Image20230706091455](https://github.com/MohamedKamalOthman/kotlin-calculator-1/assets/76039756/f0cfa60f-59f0-4c56-8a37-6b87ccd7bd5e)
+
+![Image20230706091455](https://github.com/MohamedKamalOthman/kotlin-calculator-1/assets/76039756/df34aad9-dad7-4d12-ba25-ff7df0dfc2c2)
 
